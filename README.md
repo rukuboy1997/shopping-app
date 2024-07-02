@@ -31,3 +31,11 @@ In the checkout screen you can remove an item or place your order. Thank you!
 [Click here to download the apk](https://expo.dev/artifacts/eas/vakmxEJtBnr9tCbwGqibnW.apk)
 
 ### App Screenshots
+
+* https://i.postimg.cc/kMNqKnhz/first.jpg
+* https://i.postimg.cc/LXKFg7km/second.jpg
+* https://i.postimg.cc/yNSzdBZf/third.jpg
+
+### Appatize.io Showcase
+
+[Click this link to test the app](https://appetize.io/app/uqligrfy4ofjjss4fkt644wtou?device=pixel7&osVersion=13.0)
